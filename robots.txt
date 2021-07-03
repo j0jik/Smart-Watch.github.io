@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/index.html
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/history.html
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/funcional.html
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/pokoleniya.html
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/brendi.html
+sitemap:https://j0jik.github.io/Smart-Watch.github.io/kupit.html
